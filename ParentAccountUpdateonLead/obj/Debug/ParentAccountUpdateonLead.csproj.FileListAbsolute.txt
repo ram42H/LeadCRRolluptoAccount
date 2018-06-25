@@ -1,0 +1,5 @@
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\bin\Debug\ParentAccountUpdateonLead.dll
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\bin\Debug\ParentAccountUpdateonLead.pdb
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.csprojResolveAssemblyReference.cache
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.dll
+c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.pdb
