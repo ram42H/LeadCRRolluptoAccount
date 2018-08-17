@@ -3,3 +3,8 @@ c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdat
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.csprojResolveAssemblyReference.cache
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.dll
 c:\users\meghana.nomula\documents\visual studio 2013\Projects\ParentAccountUpdateonLead\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.pdb
+C:\Users\meghana.nomula\Documents\GITHUB\LeadCRRolluptoAccount\ParentAccountUpdateonLead\bin\Debug\ParentAccountUpdateonLead.dll
+C:\Users\meghana.nomula\Documents\GITHUB\LeadCRRolluptoAccount\ParentAccountUpdateonLead\bin\Debug\ParentAccountUpdateonLead.pdb
+C:\Users\meghana.nomula\Documents\GITHUB\LeadCRRolluptoAccount\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.csprojResolveAssemblyReference.cache
+C:\Users\meghana.nomula\Documents\GITHUB\LeadCRRolluptoAccount\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.dll
+C:\Users\meghana.nomula\Documents\GITHUB\LeadCRRolluptoAccount\ParentAccountUpdateonLead\obj\Debug\ParentAccountUpdateonLead.pdb
